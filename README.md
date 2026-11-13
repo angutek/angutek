@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, we're ANGUTEK 👋
 
-<!--
-**angutek/angutek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack & Mobile App Development studio** founded by Mohammad Akram.
+We build complete websites, web apps and Android/iOS apps - from idea to launch.
 
-Here are some ideas to get you started:
+## What we do
+- Business websites and landing pages
+- Full-stack web apps (React, Next.js, Python/Flask, Node.js)
+- Android & iOS mobile apps (React Native / Expo)
+- E-commerce, payments and dashboards
+- Hosting and deployment (Vercel, Cloudflare)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [TravelTrip World](https://traveltrip.world) - travel eSIM store for 190+ countries
+- [ANGUTEK](https://angutek.com) - company website
+
+## Work with us
+- Website: [angutek.com](https://angutek.com)
+- LinkedIn: [Mohammad Akram](https://www.linkedin.com/in/mohammad-akram-8a4515436/)
+
+*Open for new projects.*
